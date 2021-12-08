@@ -7,7 +7,6 @@
 
 [![R-CMD-check](https://github.com/ggseg/ggsegFlechsig/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegFlechsig/actions)
 [![DOI](https://zenodo.org/badge/425033264.svg)](https://zenodo.org/badge/latestdoi/425033264)
-
 <!-- badges: end -->
 
 This package contains dataset for plotting the Flechsig (1920)
